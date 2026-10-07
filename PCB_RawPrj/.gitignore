@@ -1,0 +1,6 @@
+**/History/
+**/__Previews/
+**/Project Logs for */
+*.LOG
+*.SchDocPreview
+*.zip
